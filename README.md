@@ -2,9 +2,6 @@
 
 Restful API dengan menggunakan Node.js dan Express.js serta mengelola data menggunakan database MySQL atau MongoDB. API yang dibuat harus mendukung CRUD (Cread, Read, Update, Delete) data. Selain itu, API yang dibuat harus mendukung fitur authentication dan authorization, serta mengimplementasikan fitur validation.
 
-### ERD / Schema Design
-
-
 - Link BRD
 https://whimsical.com/brd-group-project-2-9QnzUotCmL9CtzaBbMGJxw
 
